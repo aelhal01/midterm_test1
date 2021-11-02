@@ -1,3 +1,8 @@
+body{
+  font-family: 'Lato', sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
 .contact_form h1{
   font-family: sans-serif;
   text-align: center;
