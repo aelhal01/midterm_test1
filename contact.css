@@ -1,12 +1,5 @@
-.contact_form{
-h1{
+.contact_form h1{
   font-family: sans-serif;
   text-align: center;
   font-weight: bold;
-}
-}
-
-a{
-    width: 150px;
-    margin: 50px;
 }
